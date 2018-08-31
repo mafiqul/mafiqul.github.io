@@ -1,1 +1,1 @@
-this project is live @ mafiqul.github.io
+this project is live @ https://mafiqul.github.io
