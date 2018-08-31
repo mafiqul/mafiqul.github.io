@@ -5,9 +5,9 @@
 /***WhatsHelp.io widget***/
 (function () {
   var options = {
-    facebook: "160990734741710", // Facebook page ID
-    telegram: "islamaminul", // Telegram bot username
-    email: "hello-amin@yandex.com", // Email
+    facebook: "mirmafiqul.alam", // Facebook page ID
+    telegram: "mafiqulalam", // Telegram bot username
+    email: "mafiqulalam27@gmail.com", // Email
     call_to_action: "", // Call to action
     button_color: "#129BF4", // Color of button
     position: "right", // Position may be 'right' or 'left'
